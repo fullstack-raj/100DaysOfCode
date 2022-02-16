@@ -1,4 +1,7 @@
-## installtion
+
+# Data Scrap using Nodejs and Puppeteer
+
+## installation
 npm init
 npm i puppeteer
 
